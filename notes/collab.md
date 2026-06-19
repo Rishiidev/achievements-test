@@ -1,1 +1,3 @@
-# Collab\n\nPair programming with bruuhhstudios!
+# Collab
+
+Pair programming with bruuhhstudios!
